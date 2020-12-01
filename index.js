@@ -59,7 +59,7 @@ client.on('message', message => {
 		.setColor("#b3240e")
 		.setFooter("Děkuji za používání")
 		message.channel.send(embed);
-		message.channel.send("Děkuji že mě používváš")
+		message.channel.send("Děkuji že mě používáš")
 	}
 });
 
